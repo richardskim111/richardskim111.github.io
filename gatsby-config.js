@@ -34,7 +34,7 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/data_sensei`,
+            url: `https://twitter.com/richardskim111`,
           },
           {
             name: `LinkedIn`,
@@ -60,6 +60,14 @@ module.exports = {
           {
             name: `IBM Plex Sans`,
             file: `https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap`,
+          },
+          {
+            name: `Hammersmith One`,
+            file: `https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap`,
+          },
+          {
+            name: `Roboto`,
+            file: `https://fonts.googleapis.com/css2?family=Roboto&display=swap`,
           },
         ],
       },
