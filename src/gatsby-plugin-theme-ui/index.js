@@ -5,7 +5,7 @@ const theme = merge(originalTheme, {
   fonts: {
     heading: `"Hammersmith One"`,
     body: `Roboto, sans-serif`,
-  },
+  }
 });
 
 export default theme;
